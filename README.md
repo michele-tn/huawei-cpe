@@ -1,4 +1,4 @@
-# huawei-cpe
+# huawei-cpe (CLONE — https://github.com/gazzasat/huawei-cpe)
 Utilities for various Huawei branded routers. 
 
 The primary aim of this utility is to enable the configuration of the Huawei H112-370 5G CPE Pro family routers using the API for functions that have been hidden or omitted on some versions of the Web UI firmware running on the device.
